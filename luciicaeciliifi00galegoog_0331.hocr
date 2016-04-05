@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./luciicaeciliifi00galegoog_0331.png"; bbox 0 0 2942 4634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 306 1033 1191 1206">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 306 1033 1191 1206">
+     <span class='ocr_line' id='line_1_1' title="bbox 306 1033 1191 1206; baseline -0.002 -45"><span class='ocrx_word' id='word_1_1' title='bbox 306 1033 771 1163; x_wconf 76' lang='lat' dir='ltr'>STEPHANI</span> <span class='ocrx_word' id='word_1_2' title='bbox 814 1037 1191 1206; x_wconf 72' lang='lat' dir='ltr'><strong>BALUZn</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 287 1457 1073 1644">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 287 1457 1073 1644">
+     <span class='ocr_line' id='line_1_2' title="bbox 287 1457 1073 1644; baseline -0.003 -66"><span class='ocrx_word' id='word_1_3' title='bbox 287 1618 293 1644; x_wconf 28' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 420 1457 1073 1644; x_wconf 85' lang='lat' dir='ltr'><strong>TUTELENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 201 1809 1290 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 201 1809 1290 2052">
+     <span class='ocr_line' id='line_1_3' title="bbox 201 1809 1290 2052; baseline 0.001 -5"><span class='ocrx_word' id='word_1_5' title='bbox 201 1809 1290 2052; x_wconf 73' lang='lat' dir='ltr'><strong>NOTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 453 2309 830 2438">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 453 2309 830 2438">
+     <span class='ocr_line' id='line_1_4' title="bbox 453 2309 830 2438; baseline -0.011 -17"><span class='ocrx_word' id='word_1_6' title='bbox 453 2413 458 2420; x_wconf 90' lang='lat'>.</span> <span class='ocrx_word' id='word_1_7' title='bbox 657 2309 830 2438; x_wconf 80' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 274 2533 1379 2945">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 274 2533 1379 2945">
+     <span class='ocr_line' id='line_1_5' title="bbox 274 2533 1379 2945; baseline 0.011 -103"><span class='ocrx_word' id='word_1_8' title='bbox 274 2667 1208 2945; x_wconf 74' lang='lat' dir='ltr'><strong>LACTANTmM.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1283 2533 1288 2554; x_wconf 47' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1375 2737 1379 2746; x_wconf 87' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1476 4634">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1476 4634">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1476 4634; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1476 4634; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
